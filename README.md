@@ -47,6 +47,8 @@ Implement clear error messages for scenarios like video not found or network iss
 ![Desktop Screenshot 2023 12 09 - 11 54 34 74](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/1a0b8f1a-6921-4087-99b0-ee7919a14f15)
 ![Desktop Screenshot 2023 12 09 - 11 56 29 27](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/b4f434a7-3de0-4b8b-a024-12fb32fbe9ad)
 
+## Reference : https://www.youtube.com/@javascriptmastery
+
 Optimize video loading times and overall application performance.
 
 # Getting Started with Create React App
