@@ -1,4 +1,4 @@
-![Desktop Screenshot 2023 12 09 - 11 53 41 18](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/4a74a95c-bff6-487d-af63-05980ef445a9)# YT-Clone
+## About :
 VideoVerse  is a web application that replicates the core functionality and user interface of YouTube using the React JavaScript library. This project aims to showcase your proficiency in building responsive and dynamic user interfaces while implementing key features of a popular video-sharing platform
 
 ## Features Implemented :
