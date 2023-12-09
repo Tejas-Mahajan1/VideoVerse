@@ -1,5 +1,53 @@
-# YT-Clone
-ReactTube is a web application that replicates the core functionality and user interface of YouTube using the React JavaScript library. This project aims to showcase your proficiency in building responsive and dynamic user interfaces while implementing key features of a popular video-sharing platform
+![Desktop Screenshot 2023 12 09 - 11 53 41 18](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/4a74a95c-bff6-487d-af63-05980ef445a9)# YT-Clone
+VideoVerse  is a web application that replicates the core functionality and user interface of YouTube using the React JavaScript library. This project aims to showcase your proficiency in building responsive and dynamic user interfaces while implementing key features of a popular video-sharing platform
+
+## Features Implemented :
+1.Video Listing: 
+Fetch and display a list of videos from the API.
+Show video thumbnails, titles, and duration.
+
+2.Video Player:
+Implement a video player with play, pause, volume control, and full-screen options.
+Support seeking to different parts of the video.
+3. User Authentication:
+Allow users to create accounts and log in securely.
+Authenticate users to enable features like liking videos and commenting.
+
+4.Comments and Discussion:
+Enable users to post comments on videos.
+Implement threaded discussions for better readability.
+
+5.Likes and Dislikes:
+Allow users to like and dislike videos.
+Display like and dislike counts in real-time.
+
+6.Search Functionality:
+Add a search bar for users to find videos based on keywords.
+Display search results in a clear and organized manner.
+
+7.Trending Section:
+Showcase trending videos based on views, likes, or other metrics.
+
+8.Explore Section:
+Provide personalized recommendations based on user preferences and viewing history.
+
+9.Responsive Design:
+Ensure that the application is responsive and works well on various devices and screen sizes.
+
+10. Error Handling:
+Implement clear error messages for scenarios like video not found or network issues.
+
+## ScreenShots :
+
+![Desktop Screenshot 2023 12 09 - 11 53 41 18](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/5fd28687-891b-4ce5-9bdf-3e34eed9e22d)
+![Desktop Screenshot 2023 12 09 - 11 53 47 33](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/92fc4bb6-05b7-491e-9f0e-f8d868f72b43)
+![Desktop Screenshot 2023 12 09 - 11 53 57 40](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/913a209c-b417-4b69-8344-5a43fcd6aa39)
+![Desktop Screenshot 2023 12 09 - 11 54 05 13](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/4cd587fc-2575-4c7f-8d3b-44001da6ac11)
+![Desktop Screenshot 2023 12 09 - 11 54 13 52](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/eb644e17-3ba7-48ed-999c-f7f7268f7644)
+![Desktop Screenshot 2023 12 09 - 11 54 34 74](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/1a0b8f1a-6921-4087-99b0-ee7919a14f15)
+![Desktop Screenshot 2023 12 09 - 11 56 29 27](https://github.com/Tejas-Mahajan1/YT-Clone/assets/114793178/b4f434a7-3de0-4b8b-a024-12fb32fbe9ad)
+
+Optimize video loading times and overall application performance.
 
 # Getting Started with Create React App
 
